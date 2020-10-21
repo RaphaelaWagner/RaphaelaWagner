@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Raphaela Wagner] :brazil: :airplane: :stuck_out_tongue_winking_eye: 
+### Hi there 👋 I'm [Raphaela Wagner] :brazil: :stuck_out_tongue_winking_eye: 
 > Product Designer, based in São Paulo, Brazil.
 
 
@@ -11,7 +11,7 @@
 
 <div>
  <p>
-I am Mid-level graphic designer able to develop an entire brand project - from concept, logotype, layouts and patterns and digital interfaces. I'm always looking for new ways to improve my skills and learn new thing about design, art, tech and product design in general. I am a fast learner, hard worker and team player who is proficient in an group of Adobe design tools. Currently I am studying hard about product design, Ux and UI and web development.
+I am Mid-level graphic designer able to develop an entire brand project - from concept, logotype, layouts, patterns and digital interfaces. I'm always looking for new ways to improve my skills and learn new thing about design, art, tech and product design in general. I am a fast learner, hard worker and team player who is proficient in an group of Adobe design tools. Currently I am studying hard about product design, Ux research process, Ux and UI and front-end development.
 
 </p>
 </div>
