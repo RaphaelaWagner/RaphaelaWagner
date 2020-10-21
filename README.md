@@ -37,7 +37,7 @@ I am Mid-level graphic designer able to develop an entire brand project - from c
 
 <p align="center">
 <a href="https://www.raphaelawagner.com.br" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.raphaelawagner.com.br-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/raphaelawagner/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@raphaelawagner-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:ellaw@uol.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-ellaw@uol.com.br-blue?style=flat&logo=gmail"></a>
 </p>
 
